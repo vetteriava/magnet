@@ -1,6 +1,6 @@
 # Magnet
 
-A versatile and user-friendly Python application with features like a password generator, command prompt, text editor, and more.
+A versatile and user-friendly Python application with features like a password generator, command prompt, and a text editor. More features coming soon.
 
 ## Table of Contents
 - [Getting Started](#getting-started)
