@@ -39,7 +39,7 @@ Pin it to your taskbar to save time and space in your taskbar!
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE/MIT-License.txt) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE/MIT-LICENSE.txt) file for details.
 
 ## Contact
 
