@@ -41,10 +41,6 @@ Pin it to your taskbar to save time and space in your taskbar!
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE/MIT-License.txt) file for details.
 
-Version at [VERSION](VERSION/VERSION.txt)
-
-Changelogs at [CHANGELOGS](VERSION/CHANGELOGS.txt)
-
 ## Contact
 
 For questions or support, contact me at [terpomojn@gmail.com](mailto:terpomojn@gmail.com).
