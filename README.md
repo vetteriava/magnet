@@ -32,9 +32,9 @@ To get started with Magnet, follow these steps:
 
 ## Screenshots
 
-![Password Generator](screenshots/password_generator.png)
-![Command Prompt](screenshots/command_prompt.png)
-![Text Editor](screenshots/text_editor.png)
+![Password Generator](SCREENSHOT/password_generator.png)
+![Command Prompt](SCREENSHOT/command_prompt.png)
+![Text Editor](SCREENSHOT/text_editor.png)
 
 ## License
 
