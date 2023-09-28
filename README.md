@@ -26,9 +26,10 @@ To get started with Magnet, follow these steps:
 
 ## Features
 
-- Password generation with customizable options.
-- Real-time execution of commands.
-- Rich text editing with undo/redo functionality.
+- Password generation with a custom password length.
+- Execution of commands in the command prompt.
+
+Pin it to your taskbar to save time and space in your taskbar!
 
 ## Screenshots
 
@@ -38,8 +39,12 @@ To get started with Magnet, follow these steps:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](Licenses/MIT-License.txt) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE/MIT-License.txt) file for details.
+
+Version at [VERSION](VERSION/VERSION.txt)
+
+Changelogs at [CHANGELOGS](VERSION/CHANGELOGS.txt)
 
 ## Contact
 
-For questions or support, contact us at [terpomojn@gmail.com](mailto:terpomojn@gmail.com).
+For questions or support, contact me at [terpomojn@gmail.com](mailto:terpomojn@gmail.com).
